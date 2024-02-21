@@ -1,0 +1,5 @@
+Use ks-log with:
+
+find_package(KsLog CONFIG REQUIRED)
+
+target_link_libraries(main PRIVATE KsLog::ks-log)
