@@ -1,0 +1,21 @@
+{
+  "name": "ks-fatal",
+  "version": "1.0.0",
+  "description": "Provide error routine to exit from application.",
+  "homepage": "https://github.com/Keepsake/fatal",
+  "license": "MIT",
+  "dependencies": [
+    {
+      "name": "ks-cmake-helpers",
+      "host": true
+    },
+    {
+      "name": "vcpkg-cmake",
+      "host": true
+    },
+    {
+      "name": "vcpkg-cmake-config",
+      "host": true
+    }
+  ]
+}
