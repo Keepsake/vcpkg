@@ -1,0 +1,22 @@
+{
+  "name": "ks-serialization",
+  "version": "1.0.0",
+  "description": "Provide serialization routines.",
+  "homepage": "https://github.com/Keepsake/serialization",
+  "license": "MIT",
+  "dependencies": [
+    {
+      "name": "ks-cmake-helpers",
+      "host": true
+    },
+    "ks-log",
+    {
+      "name": "vcpkg-cmake",
+      "host": true
+    },
+    {
+      "name": "vcpkg-cmake-config",
+      "host": true
+    }
+  ]
+}
