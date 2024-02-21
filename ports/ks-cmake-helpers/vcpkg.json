@@ -1,0 +1,17 @@
+{
+  "name": "ks-cmake-helpers",
+  "version": "1.0.0",
+  "description": "A collection of cmake functions",
+  "homepage": "https://github.com/Keepsake/cmake-helpers",
+  "license": "MIT",
+  "dependencies": [
+    {
+      "name": "vcpkg-cmake",
+      "host": true
+    },
+    {
+      "name": "vcpkg-cmake-config",
+      "host": true
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+Use ks-cmake-helpers with:
+
+find_package(KsCMakeHelpers CONFIG REQUIRED)
