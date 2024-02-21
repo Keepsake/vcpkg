@@ -1,7 +1,7 @@
 vcpkg_from_git(
   OUT_SOURCE_PATH SOURCE_PATH
   URL git@github.com:Keepsake/cmake-helpers.git
-  REF c9db3e87bf8f744a92f5b229a418fe970233a19d
+  REF 813379cd34838d287703835af8d0a8d1397e89d4
   HEAD_REF develop
 )
 
