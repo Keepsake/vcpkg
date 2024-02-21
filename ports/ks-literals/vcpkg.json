@@ -1,0 +1,21 @@
+{
+  "name": "ks-literals",
+  "version": "1.0.0",
+  "description": "Provide literals helpers.",
+  "homepage": "https://github.com/Keepsake/literals",
+  "license": "MIT",
+  "dependencies": [
+    {
+      "name": "ks-cmake-helpers",
+      "host": true
+    },
+    {
+      "name": "vcpkg-cmake",
+      "host": true
+    },
+    {
+      "name": "vcpkg-cmake-config",
+      "host": true
+    }
+  ]
+}

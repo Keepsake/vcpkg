@@ -1,0 +1,5 @@
+Use ks-literals with:
+
+find_package(KsLiterals CONFIG REQUIRED)
+
+target_link_libraries(main PRIVATE KsLiterals::ks-literals)
