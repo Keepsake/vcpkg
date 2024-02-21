@@ -1,7 +1,7 @@
 vcpkg_from_git(
 	OUT_SOURCE_PATH SOURCE_PATH
 	URL git@github.com:Keepsake/fatal.git
-	REF 0359995388de044fa5df7b33ea02f014119c534e
+	REF 71ae7215b7cb5a20038dacee29ba7cb9c2ae2b2e
 	HEAD_REF develop
 )
 
