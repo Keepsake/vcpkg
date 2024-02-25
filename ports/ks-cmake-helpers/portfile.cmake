@@ -1,6 +1,6 @@
-vcpkg_from_git(
+vcpkg_from_github(
   OUT_SOURCE_PATH SOURCE_PATH
-  URL git@github.com:Keepsake/cmake-helpers.git
+  REPO Keepsake/cmake-helpers
   REF 813379cd34838d287703835af8d0a8d1397e89d4
   HEAD_REF develop
 )

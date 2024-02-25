@@ -1,6 +1,6 @@
-vcpkg_from_git(
+vcpkg_from_github(
 	OUT_SOURCE_PATH SOURCE_PATH
-	URL git@github.com:Keepsake/serialization.git
+	REPO Keepsake/serialization
 	REF c5805a87d14ec90fbfddee41de044b6a7b677268
 	HEAD_REF develop
 )

@@ -1,6 +1,6 @@
-vcpkg_from_git(
+vcpkg_from_github(
 	OUT_SOURCE_PATH SOURCE_PATH
-	URL git@github.com:Keepsake/log.git
+	REPO Keepsake/log
 	REF 99c91b80fc9ccda70d1415565f3b251a8d858a74
 	HEAD_REF develop
 )

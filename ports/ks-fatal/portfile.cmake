@@ -1,6 +1,6 @@
-vcpkg_from_git(
+vcpkg_from_github(
 	OUT_SOURCE_PATH SOURCE_PATH
-	URL git@github.com:Keepsake/fatal.git
+	REPO Keepsake/fatal
 	REF 71ae7215b7cb5a20038dacee29ba7cb9c2ae2b2e
 	HEAD_REF develop
 )

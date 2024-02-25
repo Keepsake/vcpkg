@@ -1,6 +1,6 @@
-vcpkg_from_git(
+vcpkg_from_github(
 	OUT_SOURCE_PATH SOURCE_PATH
-	URL git@github.com:Keepsake/literals.git
+	REPO Keepsake/literals
 	REF 5d767974c0d4f7b3be6bc84a41b9bc044e3f1fd4
 	HEAD_REF develop
 )
