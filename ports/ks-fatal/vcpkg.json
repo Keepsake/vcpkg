@@ -1,6 +1,6 @@
 {
   "name": "ks-fatal",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Provide error routine to exit from application.",
   "homepage": "https://github.com/Keepsake/fatal",
   "license": "MIT",
