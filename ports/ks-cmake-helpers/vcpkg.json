@@ -1,7 +1,6 @@
 {
   "name": "ks-cmake-helpers",
-  "version": "1.1.0",
-  "port-version": 3,
+  "version": "2.1.0",
   "description": "A collection of cmake functions",
   "homepage": "https://github.com/Keepsake/cmake-helpers",
   "license": "MIT",

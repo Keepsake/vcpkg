@@ -1,8 +1,8 @@
 {
   "default": {
     "ks-cmake-helpers": {
-      "baseline": "1.1.0",
-      "port-version": 3
+      "baseline": "2.1.0",
+      "port-version": 0
     },
     "ks-fatal": {
       "baseline": "1.0.3",
