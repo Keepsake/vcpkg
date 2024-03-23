@@ -1,6 +1,6 @@
 {
   "name": "ks-log",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "port-version": 1,
   "description": "Provide logging facility.",
   "homepage": "https://github.com/Keepsake/log",
