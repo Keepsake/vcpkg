@@ -17,8 +17,8 @@
       "port-version": 1
     },
     "ks-serialization": {
-      "baseline": "1.0.0",
-      "port-version": 1
+      "baseline": "1.1.0",
+      "port-version": 0
     }
   }
 }
