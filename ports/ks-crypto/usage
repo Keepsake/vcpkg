@@ -1,0 +1,5 @@
+Use ks-crypto with:
+
+find_package(KsCrypto CONFIG REQUIRED)
+
+target_link_libraries(main PRIVATE KsCrypto::ks-crypto)

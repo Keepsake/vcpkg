@@ -4,6 +4,10 @@
       "baseline": "2.1.0",
       "port-version": 0
     },
+    "ks-crypto": {
+      "baseline": "1.0.0",
+      "port-version": 0
+    },
     "ks-fatal": {
       "baseline": "1.0.5",
       "port-version": 0

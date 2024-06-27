@@ -1,0 +1,23 @@
+{
+  "name": "ks-crypto",
+  "version": "1.0.0",
+  "description": "Provide crypto routines.",
+  "homepage": "https://github.com/Keepsake/crypto",
+  "license": "MIT",
+  "dependencies": [
+    {
+      "name": "ks-cmake-helpers",
+      "host": true
+    },
+    "ks-log",
+    "ks-serialization",
+    {
+      "name": "vcpkg-cmake",
+      "host": true
+    },
+    {
+      "name": "vcpkg-cmake-config",
+      "host": true
+    }
+  ]
+}
